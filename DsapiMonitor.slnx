@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/DsapiMonitor.Tests/DsapiMonitor.Tests.csproj" />
+    <Project Path="src/DsapiMonitor/DsapiMonitor.csproj" />
+  </Folder>
+</Solution>
